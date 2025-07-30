@@ -43,9 +43,7 @@ o	SQL: Commonly used for database management.
 5. HTML (HyperText Markup Language)
   
   •	HTML Document Structure: 
-html
-PreviewCollapseWrap
-Copy
+
 <!DOCTYPE html>
 <html>
     <head>
@@ -56,6 +54,7 @@ Copy
         <p>This is paragraph</p>
     </body>
 </html>
+
 o	<!DOCTYPE html>: Declares HTML5 document type.
 o	<html>: Root element.
 o	<head>: Contains metadata, SEO, and design/functionality code.
